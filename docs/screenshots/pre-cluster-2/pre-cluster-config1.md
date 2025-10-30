@@ -24,6 +24,7 @@ This validated that the server environment was clean and suitable for a fresh SQ
 ![No SSMS Present](screenshots/pre-cluster-2/no-ssms-present.png)  
 *Figure 3: Windows search confirming no SSMS detected.*
 
+
 > These verifications confirm a clean environment before performing the SQL Server Enterprise 2019 installation.  
 > The following sections capture the validated baseline configuration prior to cluster feature installation.
 
